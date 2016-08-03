@@ -1,0 +1,7 @@
+{
+    "name": "OrionFileKeeper",
+    "version": "0.0.1b",
+    "main": "app.js",
+    "dependencies": {
+    }
+}
