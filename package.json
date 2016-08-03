@@ -1,7 +1,16 @@
 {
-    "name": "OrionFileKeeper",
-    "version": "0.0.1b",
-    "main": "app.js",
-    "dependencies": {
-    }
+  "name": "OrionFileKeeper",
+  "version": "0.0.1b",
+  "main": "app.js",
+  "description": "Orion FileKeeper - Prototype for a http based static file server.",
+  "repository": "https://bitbucket.org/rfas_xperts/orionfilekeeper",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gridfs-stream": "^1.1.1",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.5",
+    "multer": "^1.1.0",
+    "stream-buffers": "^3.0.0"
+  }
 }
