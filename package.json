@@ -1,9 +1,9 @@
 {
-  "name": "OrionFileKeeper",
+  "name": "FileKeeper",
   "version": "0.0.1b",
   "main": "app.js",
-  "description": "Orion FileKeeper - Prototype for a http based static file server.",
-  "repository": "https://bitbucket.org/rfas_xperts/orionfilekeeper",
+  "description": "FileKeeper - Prototype for a http based static file server.",
+  "repository": "https://github.com/rfasioli/nodejs-file-keeper",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
